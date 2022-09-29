@@ -1000,5 +1000,4 @@ const HLJS = function(hljs) {
   return hljs;
 };
 
-// export an "instance" of the highlighter
-export default HLJS({});
+export default HLJS;
